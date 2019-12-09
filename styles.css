@@ -1,3 +1,24 @@
+.div1{
+background-color:transparent;
+width:40px;
+height:40px;
+padding:10px  10px;
+margin:45px;
+
+}
+.p1{background-color:rgb(150,50,50); 
+  font-weight:bold;
+  font-size:20px;
+  border:7px groove gray;
+  font-family:tahoma;
+  position:fixed;top:870px;
+}
+
+.profile1{position:absolute;top:100px;left:790px;}
+.profile2{position:absolute;top:100px;left:900px;}
+.profile3{position:absolute;top:10px;left:790px;}
+body{background-image: url("trinity.jpg"); width:100%; height:1024px; margin:0
+}
 * {
   margin:0px;
   padding:0px;
