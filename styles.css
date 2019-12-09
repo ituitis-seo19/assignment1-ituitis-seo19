@@ -20,4 +20,4 @@ p {
   margin: 50px auto;
   font: 30px Italic,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
-.footer{position:fixed;left:800px}
+.footer{position:variable;left:800px}
