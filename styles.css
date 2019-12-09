@@ -1,48 +1,11 @@
-.div1{
-background-color:transparent;
-width:40px;
-height:20px;
-padding:10px  10px;
-margin:45px;
 
-}
-.p1{background-color:rgb(150,50,50); 
-  font-weight:bold;
-  font-size:10px;
-  border:7px groove gray;
-  font-family:italic;
-  position:variable;top:870px;
-}
 
 .profile1{position:absolute;top:100px;left:790px;}
 .profile2{position:absolute;top:100px;left:900px;}
 .profile3{position:absolute;top:10px;left:790px;}
 body{background-image: url("trinity.jpg"); width:100%; height:1024px; margin:0
 }
-.h21{
-position:absolute; left:550px; top:500px;
-border:groove 4px red;
-color:red;
-font-weight:bold;
-font-style:italic;
-font-size:40px;
-background-color:rgb(50,50,150);
-margin:30px
-} 
 
-button{background-color:red;
-    font-size:20px;
- border:groove 7px gray;
- -webkit-transition-duration: 0.4s; 
-  transition-duration: 0.4s;
-   cursor:pointer
-}
- 
-button:hover{
-  background-color:blue; 
-  color: white;
-
-}
 * {
   margin:0px;
   padding:0px;
