@@ -1,7 +1,9 @@
 footer .logo{ 
     float:right;   
 }
-
+h3 #foot{
+    float:left; text-align: left;
+}
 #home {background-image: url("trinity.jpg"); width:100%; height:1024px; margin:0;
   p {
     text-align: center;
